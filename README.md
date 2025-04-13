@@ -9,8 +9,8 @@ Here are some ideas to get you started:
 -  ...-->
 
 # 💫About Me :
-🔭 I am currently working as a backend developer
-🌱 I am learning and exploring DevOps and DevSecOps
+- 🔭 I am currently working as a backend developer
+- 🌱 I am learning and exploring DevOps and DevSecOps
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100029727128528) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anh-dung-pham-714128256/) 
